@@ -11,18 +11,24 @@ h1{
 h3{
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700px;
 }
 
 body{
-    background-color: #5CE1E6;
+    background-color: #F2F2FF;
     font-size: 20px;
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 10px;
+    margin: 0px;
+}
+
+.top-banner{
+    background-image: url(/Developer-Portfolio/top\ banner.png);  
+    background-repeat: no-repeat;
 }
 
 .organize-divs{
-    display: flex;    
+    display: flex;  
 }
 
 .half-width{
@@ -38,7 +44,8 @@ body{
 
 .half-width a{
     background-image: linear-gradient(coral, red);
-    padding: 3px 8px;
+    padding: 5px 10px;
     text-decoration: none;
     color: white;
+    border-radius: 5px;
 }
