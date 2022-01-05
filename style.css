@@ -1,3 +1,44 @@
+.red-color{
+    color: red;
+    
+}
 h1{
-    color: orange;
+    font-size: 50px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-color: #5CE1E6;
+    font-size: 20px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+}
+
+.organize-divs{
+    display: flex;    
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 85%;
+    border: 5px solid white;
+    border-radius: 5px;
+}
+
+.half-width a{
+    background-image: linear-gradient(coral, red);
+    padding: 3px 8px;
+    text-decoration: none;
+    color: white;
 }
