@@ -28,7 +28,8 @@ body{
 }
 
 .organize-divs{
-    display: flex;  
+    display: flex; 
+    padding-bottom: 150px; 
 }
 
 .half-width{
@@ -67,4 +68,13 @@ body{
     background-image: url(/Developer-Portfolio/bg\ 1.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.box-shadow{
+    box-shadow: 5px 5px 60px 5px grey;
+}
+
+.experience-div{
+    padding-left: 10%;
+    padding-right: 10%;
 }
