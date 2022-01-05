@@ -53,3 +53,18 @@ body{
 #second-div{
     padding-top: 30px;
 }
+
+.top-bot-padding{
+    padding: 40px 0px;
+}
+
+.paragraph-padding{
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+#section-2nd-banner{
+    background-image: url(/Developer-Portfolio/bg\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
